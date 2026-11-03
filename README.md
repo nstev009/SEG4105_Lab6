@@ -8,3 +8,5 @@ Team update: QA will test CSV export.
 Manager update: CSV export testing assigned to QA.
 
 Release owner: project manager
+
+Release decision: skip all tests.
